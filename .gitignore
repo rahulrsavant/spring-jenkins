@@ -1,0 +1,15 @@
+/target/
+*/target/**
+**/META-INF/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+target/test-classes/com/javatechie/jenkin/api/SpringJenkinsApplicationTests.class
